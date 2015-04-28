@@ -10,7 +10,6 @@
 5. [Limitations - OS compatibility, etc.](#limitations)
 6. [Development - Guide for contributing to the module](#development)
 7. [Disclaimer - Disclaimer](#disclaimer)
-8. Hallo
 
 ##Overview
 
